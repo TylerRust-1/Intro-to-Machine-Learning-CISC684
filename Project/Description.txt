@@ -1,0 +1,37 @@
+It is time to think about your project. Please form a group of two or three students and select a machine learning paper that you are interested in. There is no constraint on the topic.
+After selecting your paper, you should submit a one-page summary by April 15 (Only one person in the group should submit the summary).  The one-page summary should include the names of students in your group, the name of the paper that you have selected, and a paragraph about the paper. 
+After selecting the paper, you are supposed to read the paper carefully and implement the algorithm. We expect that you do at least one of the followings.
+1. Summarize and implement the proposed algorithm
+2. Improve the proposed algorithm
+3. Apply the algorithm to a new dataset (e.g., if the proposed method has been tested for spam detection, you can apply the method to a healthcare dataset.)
+ 
+You should submit a final report at the end of this semester. The report should be up to 5 pages and include the following,
+1. Abstract
+2. Introduction
+3. Problem Formulation
+4. Proposed Method
+5. Numerical Experiments
+6. References (it does not count toward the page limit)
+ 
+Project ideas:
+To get ideas for a project, you might look at recent publications such as the Journal of Machine Learning Research, and conferences like ICML, NeurIPS, and AISTATS.
+Here are some topics in machine learning that may be of interest, in addition to those covered so far in lecture:
+•	Active learning (when labels cost something and the label budget is limited)
+•	Semi-supervised learning (how to use unlabeled data to help design a classifier)
+•	Novelty/anomaly detection (classification when one class has no training data)
+•	Multi-label learning (when patterns have multiple valid labels)
+•	Multi-view learning (learning with two disparates sources of information, e.g. audio and video, or speech and text)
+•	Nonparametric Bayesian methods (e.g. latent Dirichlet allocation for topic modeling)
+•	How to handle missing data (when some features are not observed)
+•	Robust methods (for PCA, SVMs, etc.)
+•	Advanced methods for nonlinear dimensionality reduction
+•	Multi-task learning (learning several related classificationtasks at the same time)
+•	Transfer learning (when training and testing distributions differ)
+•	Online learning (data arrive sequentially)
+•	Ranking and recommender systems (database search, predicting user preferences)
+•	Sparsity and high dimensional inference (overcoming the curse of dimensionality)
+•	Deep neural networks
+•	Privacy-preserving machine learning
+•	Online/parallel/distributed implementation of established machine learning algorithms
+ 
+If you have any questions, please feel free to send me or the TA an email. Thank you.
